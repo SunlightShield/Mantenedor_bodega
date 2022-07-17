@@ -1,0 +1,24 @@
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Entidades\bin\Debug\Proyecto.Entidades.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Entidades\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Entidades\bin\Debug\Proyecto.Entidades.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Entidades\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Note\source\repos\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.csproj.AssemblyReference.cache
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\bin\Debug\Proyecto.Entidades.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.csproj.AssemblyReference.cache
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.pdb
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\bin\Debug\Proyecto.Entidades.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\bin\Debug\Proyecto.Entidades.pdb
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.csproj.AssemblyReference.cache
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.csproj.CoreCompileInputs.cache
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.pdb

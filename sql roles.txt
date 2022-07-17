@@ -1,0 +1,13 @@
+--Insertar roles
+
+insert into rol (Nombre) values ('Administrador');
+insert into rol (Nombre) values ('Vendedor');
+insert into rol (Nombre) values ('Almacenero');
+go
+
+--procedimiento listar rol
+create proc rol_listar
+as
+select idrol,nombre from rol
+where estado=1
+go

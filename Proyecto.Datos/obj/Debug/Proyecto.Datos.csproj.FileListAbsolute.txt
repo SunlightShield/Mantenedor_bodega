@@ -1,0 +1,61 @@
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.pdb
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CopyComplete
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Note\source\repos\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CopyComplete
+C:\Users\Note\source\repos\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.AssemblyReference.cache
+C:\Users\Note\Documents\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.pdb
+C:\Users\Note\Documents\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\Note\Documents\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csprojAssemblyReference.cache
+C:\Users\Note\Documents\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CopyComplete
+C:\Users\Note\Documents\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.pdb
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.pdb
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.AssemblyReference.cache
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CopyComplete
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.pdb
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.pdb
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.pdb
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.AssemblyReference.cache
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.pdb
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.pdb
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.AssemblyReference.cache
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CopyComplete
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.pdb
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Datos.pdb
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Datos\bin\Debug\Proyecto.Entidades.pdb
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.AssemblyReference.cache
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Datos\obj\Debug\Proyecto.Datos.pdb

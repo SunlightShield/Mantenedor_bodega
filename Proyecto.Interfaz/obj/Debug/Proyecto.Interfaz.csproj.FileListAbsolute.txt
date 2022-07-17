@@ -1,0 +1,655 @@
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Properties.Resources.resources
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.GenerateResource.cache
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.config
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.pdb
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.pdb
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.pdb
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioPrincipal.resources
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CopyComplete
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.pdb
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioCategoria.resources
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioArticulo.resources
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\BarcodeStandard.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Drawing.Common.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.dll
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.xml
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.xml
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.xml
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sebastian\Documents\Documentos seba\cosas de la carrera del seba\Proyecto de Software\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.xml
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.config
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\BarcodeStandard.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Drawing.Common.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.xml
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.xml
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.xml
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.xml
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioArticulo.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioCategoria.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioPrincipal.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Properties.Resources.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.GenerateResource.cache
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CopyComplete
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioRol.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioUsuario.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioInicioSesion.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioClientes.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioProveedores.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.AssemblyReference.cache
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioIngresos.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_Proveedor.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.config
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.pdb
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\BarcodeStandard.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Drawing.Common.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.dll
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.pdb
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.xml
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.xml
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.xml
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.xml
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.pdb
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csprojAssemblyReference.cache
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioArticulo.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioCategoria.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioIngresos.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioInicioSesion.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioPrincipal.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioClientes.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioProveedores.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioRol.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioUsuario.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_Proveedor.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Properties.Resources.resources
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.GenerateResource.cache
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CopyComplete
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe
+C:\Users\Note\Documents\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.pdb
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVentas.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\EnvDTE.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\stdole.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioConsultaFechaVentas.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_ClienteVenta.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Informes.formularioInformeArticulos.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Informes.formularioInformeComprobanteVenta.resources
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\RdlCompile.cache
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\RdlCompile.compiled
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.manifest
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.application
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe.manifest
+C:\Users\Note\source\repos\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.application
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.config
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.manifest
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.application
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.pdb
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\BarcodeStandard.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Drawing.Common.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\EnvDTE.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\stdole.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.MSXML.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.pdb
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.xml
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.xml
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.xml
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.xml
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.pdb
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.AssemblyReference.cache
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioArticulo.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioCategoria.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioConsultaFechaVentas.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioIngresos.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioInicioSesion.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioPrincipal.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioClientes.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioProveedores.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioRol.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioUsuario.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVentas.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_ClienteVenta.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_Proveedor.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Informes.formularioInformeArticulos.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Informes.formularioInformeComprobanteVenta.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Properties.Resources.resources
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.GenerateResource.cache
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe.manifest
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.application
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CopyComplete
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe
+C:\Users\agqto\Documents\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.pdb
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.config
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.manifest
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.application
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.pdb
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\BarcodeStandard.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Drawing.Common.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\EnvDTE.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\stdole.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.MSXML.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.pdb
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.xml
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.xml
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.xml
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.xml
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.xml
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.pdb
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.pdb
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.AssemblyReference.cache
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioArticulo.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioCategoria.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioConsultaFechaVentas.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioIngresos.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioInicioSesion.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioPrincipal.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioClientes.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioProveedores.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioRol.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioUsuario.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVentas.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_ClienteVenta.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_Proveedor.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Informes.formularioInformeArticulos.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Informes.formularioInformeComprobanteVenta.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Properties.Resources.resources
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.GenerateResource.cache
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CoreCompileInputs.cache
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe.manifest
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.application
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe
+C:\Proyecto\Proyecto ojala que funcione\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.pdb
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.config
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.manifest
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.application
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.pdb
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\BarcodeStandard.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Drawing.Common.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\EnvDTE.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\stdole.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.MSXML.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.pdb
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.xml
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.xml
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.xml
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.xml
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.pdb
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.AssemblyReference.cache
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioArticulo.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioCategoria.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioConsultaFechaVentas.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioIngresos.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioInicioSesion.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioPrincipal.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioClientes.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioProveedores.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioRol.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioUsuario.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVentas.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_ClienteVenta.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_Proveedor.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Informes.formularioInformeArticulos.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Informes.formularioInformeComprobanteVenta.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Properties.Resources.resources
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.GenerateResource.cache
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe.manifest
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.application
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CopyComplete
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.pdb
+C:\Users\agqto\source\repos\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioConsultaFechaCompras.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.config
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe.manifest
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.application
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.exe
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Interfaz.pdb
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\BarcodeStandard.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\FontAwesome.Sharp.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Drawing.Common.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\EnvDTE.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\stdole.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.MSXML.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Negocio.pdb
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Buffers.xml
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Memory.xml
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Numerics.Vectors.xml
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Text.Json.xml
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\System.ValueTuple.xml
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Datos.pdb
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\Proyecto.Entidades.pdb
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.AssemblyReference.cache
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioArticulo.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioCategoria.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioConsultaFechaCompras.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioConsultaFechaVentas.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioIngresos.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioInicioSesion.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioPrincipal.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioClientes.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioProveedores.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioRol.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.FormularioUsuario.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVentas.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_ClienteVenta.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.formularioVista_Proveedor.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Informes.formularioInformeArticulos.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Informes.formularioInformeComprobanteVenta.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.Properties.Resources.resources
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.GenerateResource.cache
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\RdlCompile.cache
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\RdlCompile.compiled
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.csproj.CoreCompileInputs.cache
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe.manifest
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.application
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.exe
+C:\Proyecto\Proyecto funcionando\Proyecto\Proyecto.Interfaz\obj\Debug\Proyecto.Interfaz.pdb
